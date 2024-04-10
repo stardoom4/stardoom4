@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Most of the repo in my profiles are just templates of various SSG's and I am not a programmer but i do have interest in it.**
 
-### Blogs posts
+### Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -22,8 +22,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stardoom4&" alt="stardoom4" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stardoom4" alt="stardoom4" /></a></p>
-
-# Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->

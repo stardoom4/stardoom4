@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celestial-Entity</h1>
 <h3 align="center">A passionate Science student from India.</h3>
 
-- 🔭 I’m currently working on [My personal site/wiki.](https://github.com/stardoom4/repoquartz)
+- 🔭 I’m currently working on [My personal site/wiki.](https://github.com/stardoom4/quartz-garden)
 
 - 🌱 I’m currently learning **Calculus , Physics , Linux and Bash.**
 
